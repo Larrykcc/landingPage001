@@ -12,7 +12,9 @@
 header, footer, .hero {
     background: #1F2937;
     padding-top: 3rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
 
 div.hero {
     padding-bottom: 5rem;
@@ -123,14 +125,14 @@ button {
     justify-content: center;
     align-items: center;
     padding-top: 400px;
-    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .main-c-t-a {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .quote > h4 {
@@ -152,6 +154,7 @@ button {
     margin: 6rem;
     padding: 3rem 8rem;
     border-radius: 0.4rem;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .inner-c-t-a > h4 {
@@ -249,6 +252,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+   
 }
 .section-information {
     display: flex;
@@ -260,6 +264,8 @@ footer {
     list-style-type: none!important;
     color: #1F2937;
     margin-bottom: 3rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 3.5rem;
 }
 
 .h1-information {
@@ -296,6 +302,7 @@ footer {
     height: 300px;
     border-radius: 7px;
     margin-top: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #quote-name {
